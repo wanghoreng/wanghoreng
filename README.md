@@ -1,8 +1,6 @@
-<p align="left">
+<h1 align="center"> Hi,I'm Kim JiHea! <p align="left">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-</p>
-
-<h1 align="center"> Hi,I'm Kim JiHea! </h1>
+</p> </h1>
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
 </div>

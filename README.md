@@ -1,5 +1,7 @@
 
-### Hi there 👋
+### Hi,I'm Kim JiHea! 👋
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 150/>
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlgp1478)](https://solved.ac/rlawlgp1478)

@@ -1,4 +1,4 @@
-<h1 align="center"> Hi,I'm Kim JiHea!</h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="100%" alt="Hello, I'm Kim Jihea!." src="./assets/gh-readme-header.png" /></a></p>
 <p align="left">
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 </p> 

@@ -1,6 +1,6 @@
 
 ### Hi,I'm Kim JiHea! 👋
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 50/>
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" height=50 width = 50/>
 
 
 [![Solved.ac

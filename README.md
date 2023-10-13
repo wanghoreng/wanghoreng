@@ -1,8 +1,8 @@
 
 <h1 align="center"> Hi,I'm Kim JiHea! 👋 </h1>
-<p>
+<div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
-</p>
+</div>
 
 <br>
 <br>

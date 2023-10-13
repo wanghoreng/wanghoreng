@@ -59,13 +59,11 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlgp1478)](https://solved.ac/rlawlgp1478)
 
-
 <hr></hr>
 
-
+<br>
 <div align=center>
 
-  
 **Looking for someone who is good at communicating? It's ME.** <br>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>

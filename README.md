@@ -1,4 +1,7 @@
+
 ### Hi there 👋
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
 
 <!--
 **wanghoreng/wanghoreng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

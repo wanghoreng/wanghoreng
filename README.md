@@ -1,11 +1,11 @@
 
 <h1 align="center"> Hi,I'm Kim JiHea! 👋 </h1>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" height=50 width = 50/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
 
 <hr> 
-<div align=center><h1>📚 STACKS</h1></div> 
+<div align=center><h2>📚 STACKS</h2></div> 
 
-## ⚡ Status
+<div align=center><h3>⚡ Status</h3></div> 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlgp1478)](https://solved.ac/rlawlgp1478)
 

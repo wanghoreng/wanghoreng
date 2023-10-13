@@ -2,9 +2,11 @@
 <h1 align="center"> Hi,I'm Kim JiHea! 👋 </h1>
 <p>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
-</p>  
+</p>
+
 <br>
-<hr>
+<br>
+
 <div align=center><h2>📚 STACKS</h2></div> 
 
 <div align=center><h3>⚡ Status</h3></div> 

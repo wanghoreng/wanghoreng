@@ -1,7 +1,8 @@
 
 ### Hi there 👋
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlgp1478)](https://solved.ac/rlawlgp1478)
 
 <!--
 **wanghoreng/wanghoreng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

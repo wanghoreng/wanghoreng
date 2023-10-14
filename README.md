@@ -50,7 +50,7 @@
 - 5 Person Python Grammar Task Study
 
 **Bachelor Degree (Mar 2019 - Feb 2022)**
-- Department of Chinese Language and Literature Introduction, Kmimyung University<br>
+- Department of Chinese Language and Literature Introduction, Keimyung University<br>
 
 <br><br>
 

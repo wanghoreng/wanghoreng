@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 <h1 align=center>Hi 👋, I'm Kim Jihea!</h1> 
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
@@ -81,7 +83,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 </div> 
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 <!--
 **wanghoreng/wanghoreng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

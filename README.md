@@ -39,7 +39,7 @@
 
 <div align=center><h2>☃️ Experiences</h2></div> 
 
-**<a href="https://www.clamos.io/">SSAFY</a> (July 2025 - ing)**
+**<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">SSAFY</a> (July 2025 - ing)**
 - Samsung SW·AI academy For Youth
 
 **<a href="https://www.clamos.io/">CLAMOS Company</a> (Dec 2023 - May 2025)**

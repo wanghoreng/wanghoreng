@@ -42,7 +42,7 @@
 **<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">SSAFY</a> (July 2025 - ing)**
 - Samsung SW·AI academy For Youth
 
-**<a href="https://www.clamos.io/">CLAMOS Company</a> (Dec 2023 - May 2025)**
+**<a href="https://www.clamos.io/">CLAMOS Company</a> (Dec 2023 - June 2025)**
 - Backend Developer 
 
 **<a href="https://soapy-evening-7db.notion.site/CS-Study-2379c30a31a04601a4ce184c98909f96?pvs=4">CS Study</a> (Sep 2023 - Oct 2023)** 

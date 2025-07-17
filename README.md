@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20'm%20Kim%20Jihea!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <h1 align=center>Hi 👋, I'm Kim Jihea!</h1> 
 <div>
@@ -44,7 +45,7 @@
 
 <div align=center><h2>☃️ Experiences</h2></div> 
 
-**<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">SSAFY</a> (July 2025 - ing)**
+**<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp">SSAFY 14th</a> (July 2025 - ing)**
 - Samsung SW·AI academy For Youth
 
 **<a href="https://www.clamos.io/">CLAMOS Company</a> (Dec 2023 - June 2025)**
@@ -58,10 +59,6 @@
 
 **<a href="https://soapy-evening-7db.notion.site/SIST-69a618187ebe4672a8d4ac028a9b8ca8?pvs=4">Python Grammer Study</a> (Mar 2023 - Apr 2023)**
 - 5 Person Python Grammar Task Study
-
-**Bachelor Degree (Mar 2019 - Feb 2022)**
-- Department of Chinese Language and Literature Introduction, Keimyung University<br>
-
 <br><br>
 
 <div><h3>⚡ Status</h3></div> 

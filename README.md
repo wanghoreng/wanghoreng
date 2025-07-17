@@ -1,5 +1,4 @@
-
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20'm%20Kim%20Jihea!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20'm%20Kim%20Jihea!&fontSize=70&color=0:87CEFA,100:ADD8E6)
 
 <h1 align=center>Hi 👋, I'm Kim Jihea!</h1> 
 <div>

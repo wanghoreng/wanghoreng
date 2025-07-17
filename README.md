@@ -1,6 +1,7 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20'm%20Kim%20Jihea!&fontSize=70&color=0:87CEFA,100:ADD8E6)
 
-<h1 align=center>Hi 👋, I'm Kim Jihea!</h1> 
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20'm%20Kim%20Jihea!&fontSize=70&color=0:a3d8f4,100:e6f4ff&fontColor=403f70&fontAlign=50)
+
+
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200"/>
   I'm Kim Jihea, a developer who thinks of the other person first.
@@ -79,7 +80,6 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 </div> 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 <!--
 **wanghoreng/wanghoreng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
